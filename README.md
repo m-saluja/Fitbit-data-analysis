@@ -17,3 +17,4 @@ Original - LOW: The data was third party collected through a distributed sur
 Comprehensive - MED: Dataset contains multiple fields on daily activity intensity, calories used, daily steps taken, daily sleep time and weight record.
 Current - LOW: Data set is from 2016, so 7 years old now.
 Cited - LOW: Data set is gathered from a third party, so it's unknown.
+
