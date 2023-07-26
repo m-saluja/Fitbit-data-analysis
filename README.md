@@ -13,8 +13,12 @@ Data set used for this project is FitBit Fitness Tracker Data (CC0: Public Domai
 There are 18 csv files in total and there are organized in long format. Data has some issues and limitations. Based on ROCCC:
 
 Reliability - LOW: The data contains only a small sample size of 30 users and limited time frame of 1 month. We don't know anything about the gender, age of users which is important since Ballbeat is a company that focuses on products for women.
+
 Original - LOW: The data was third party collected through a distributed survey using Amazon Mechanical Turk.
+
 Comprehensive - MED: Dataset contains multiple fields on daily activity intensity, calories used, daily steps taken, daily sleep time and weight record.
+
 Current - LOW: Data set is from 2016, so 7 years old now.
+
 Cited - LOW: Data set is gathered from a third party, so it's unknown.
 
